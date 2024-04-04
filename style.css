@@ -49,10 +49,12 @@ color: var(--texte-color);
 
 #container
 {
+width: 100%;
+max-width: 588px;
 
-width: 360px;
-/*border: 1px solid red;*/
 margin: 56px auto 0px;
+margin: 56px auto 0px;
+
 
 
 }
